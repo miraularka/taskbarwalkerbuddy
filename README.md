@@ -19,8 +19,11 @@ Note that the included spritesheets are meant as placeholders as well as templat
 
 ## Running
 I wrote this in Python 3.12.4 therefore I assume that version will work for you! Absolutely no clue if earlier versions of Python 3 or if Python 2(.7?) will run it properly.
+
 <sub>Anyway...</sub>
-`python ./walkerbuddy.py`
+```python ./walkerbuddy.py```
+
+
 Simple as that. Unless you want it as an _executable_ in which case you're gonna have to wait until I upload that!
 
 Cheers!
