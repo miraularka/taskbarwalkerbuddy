@@ -17,5 +17,10 @@ Note that the included spritesheets are meant as placeholders as well as templat
 * Consume Mode - you won't see a repeat walker until all others have been clicked
 * Multiple walkers!
 
-Hope you enjoy it!
+## Running
+I wrote this in Python 3.12.4 therefore I assume that version will work for you! Absolutely no clue if earlier versions of Python 3 or if Python 2(.7?) will run it properly.
+`python ./walkerbuddy.py`
+I plan on making a simple installer for this to make it an executable as well. I hope you look forward to it!
+
+Cheers!
 ~Mirau
