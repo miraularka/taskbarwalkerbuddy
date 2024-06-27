@@ -25,7 +25,7 @@ I wrote this in Python 3.12.4 therefore I assume that version will work for you!
 ```python ./walkerbuddy.py```
 
 
-Simple as that. If you would like it as a pure _executable_ you'll have to go over to the Releases tab and grab the latest. Windows 11 lovingly informs me that my own program has a trojan; apparently a quirk of the latest PyInstaller. I'll try a few ways to circumvent that when I can. If you would rather not risk PyInstaller being _obtuse_ then I would suggest running it as a Python script via Windows CMD or Powershell.
+Simple as that. If you would like it as a pure _executable_ you'll have to go over to the Releases tab and grab the latest. Don't forget that you are still required to have a /img/ directory within the same directory as the executable, so you might as well grab the ones up in the repo. Have fun!
 
 Cheers!
 ~Mirau
